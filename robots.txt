@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://djoni-bor.github.io/sumur-kita/sitemap.xml
